@@ -101,9 +101,9 @@ def send_email(image, subject, body):
     imwrite("img.png", image)
     
     # Email addresses and login credentials
-    fromaddr = "madesh06k@gmail.com"
-    toaddr = "madesh06k@gmail.com"
-    password = "jues hkqw xsjo rcaw"  # Use an app-specific password 
+    fromaddr = "madesh0f@gmail.com"
+    toaddr = "madesh0fk@gmail.com"
+    password = "jues hzxc xsjo mnbv"  # Use an app-specific password 
 
     # Create the MIMEMultipart message
     msg = MIMEMultipart()
